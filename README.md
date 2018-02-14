@@ -1,3 +1,3 @@
 # DiskImages
 
-Backup Disk Images for the Raspberry Pi.
+Complete disk images for the raspberry pi with networking set up and the programs loaded to launch automatically.
